@@ -14,8 +14,9 @@
 <h1 align="center">:mag_right: Preview do Projeto</h1>
 
 <div align="center">
-  <img alt="Home" title="#Home" src="./github/screen1.png" width="250" />
-  <img alt="Link" title="#Link" src="./github/screen2.png" width="250" />
+  <img alt="Number" title="#Number" src="./github/screenOne.png" width="250" />
+  <img alt="Letter" title="#Letter" src="./github/screenTwo.png" width="250" />
+  <img alt="All" title="#All" src="./github/screenThree.png" width="250" />
 </div>
 
 ## :hammer: Pré-requisitos
