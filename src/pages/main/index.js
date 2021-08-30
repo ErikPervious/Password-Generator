@@ -63,7 +63,7 @@ export function Main() {
 
   return(
     <View style={styles.container}>
-      <StatusBar translucent={false} backgroundColor="#121313" barStyle="light-content"/>
+      <StatusBar translucent={false} backgroundColor="#121212" barStyle="light-content"/>
       <Image 
         source={require('../../assets/logo.png')}
         style={styles.logo}
