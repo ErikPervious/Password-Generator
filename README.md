@@ -7,9 +7,7 @@
 
 <h1 align="center">Password Generator Insider 2.0</h1>
 
-<p>O Insider é um evento que o @SujeitoProgramador disponibiliza ao público e em cada temporada ele trás uma proposta de aplicativo diferente.</p>
-<p>Você não precisa ter conhecimento algum para participar, pois ele sempre ensina do zero ao app ou seja, você consegue desenvolver o app sem saber nada de programação e assim que finalizar você vai ter uma base na área.</p>
-<p>No Insider 2.0 a proposta foi criar um aplicativo mobile(android/ios) pra gerar senhas aleatórias </p>
+<p>Com o Password Generator você consegue gerar senhas totalmente aleatórias de uma forma muito simples e fácil. Podendo também editar o que vai ser gerado na senha, como apenas números, letras ou tudo misturado e também escolher a quantidade de caracteres.</p>
 
 <h1 align="center">:mag_right: Preview do Projeto</h1>
 
